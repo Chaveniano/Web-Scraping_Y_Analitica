@@ -9,8 +9,7 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#Token="Token 09288a8077df38f82b7a3343fc2c1ed8e472625b"
-Token= "Token 4ad87cfd10c4160472739ddf8227f531373c82ea"
+Token= "[DIGITA AQUÍ TU TOKEN, TIENE LA FORMA DE: [Token asdcf23453425acsdf345csd3245cas]"
 headers = {
     "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/71.0.3578.80 Chrome/71.0.3578.80 Safari/537.36",
     "authorization":Token
