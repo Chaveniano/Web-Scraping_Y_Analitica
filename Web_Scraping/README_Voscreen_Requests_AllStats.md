@@ -37,5 +37,5 @@ Siéntete libre de contribuir a este proyecto. Puedes enviar pull requests con m
 - Este proyecto es desarrollado por Sebastian Chaves Tequia.
 - El código base utiliza las bibliotecas `requests`, `pandas` y `matplotlib` bajo sus respectivas licencias.
 
-##Para encontrar el Token:
+## Para encontrar el Token:
 Ve a la página Web de Voscreen, ingresa con tu usuario,luego clic derecho, Inspeccionar, luego en Network, ve a la sección de Stats, aparecerá una línea en la sección de Inspeccionar que dice "Stats", seleccionala y baja la barra hasta encontrar el campo que dice "Authorization" Copia todo el texto que tiene asignado ese campo y pégalo en el código donde dice "Token= "{Aqui pegas tu texto}""
